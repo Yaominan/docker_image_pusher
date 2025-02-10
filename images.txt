@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #centos:8
 #prometheus:latest
-grafana/grafana:latest
+#grafana/grafana:latest
+nginx:latest
