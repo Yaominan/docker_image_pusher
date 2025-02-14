@@ -7,4 +7,5 @@
 #centos:8
 #prometheus:latest
 #grafana/grafana:latest
-nginx:latest
+#nginx:latest
+#airflow:latest
