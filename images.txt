@@ -8,4 +8,4 @@
 #prometheus:latest
 #grafana/grafana:latest
 #nginx:latest
-airflow:latest
+apache/airflow:latest
