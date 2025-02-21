@@ -9,4 +9,4 @@
 #grafana/grafana:latest
 #nginx:latest
 #apache/airflow:latest
-zabbix/zabbix-server-mysql:5.2.2
+zabbix/zabbix-server-mysql:5.2-centos-latest
