@@ -8,4 +8,5 @@
 #prometheus:latest
 #grafana/grafana:latest
 #nginx:latest
-apache/airflow:latest
+#apache/airflow:latest
+zabbix/zabbix-server-mysql:5.2.2
