@@ -10,5 +10,5 @@
 #nginx:latest
 #apache/airflow:latest
 #zabbix/zabbix-server-mysql:5.2-centos-latest
-zabbix/zabbix-web-nginx-mysql:5.2-centos-latest
-
+#zabbix/zabbix-web-nginx-mysql:5.2-centos-latest
+redis:6-alpine
