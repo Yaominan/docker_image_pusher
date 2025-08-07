@@ -14,9 +14,10 @@
 #redis:6-alpine
 
 # 20250807
-registry.k8s.io/pause:3.10
-registry.k8s.io/coredns/coredns:v1.12.0
-registry.k8s.io/kube-proxy:v1.33.1
-registry.k8s.io/kube-apiserver:v1.33.1
-registry.k8s.io/kube-scheduler:v1.33.1
-registry.k8s.io/kube-controller-manager:v1.33.1
+#registry.k8s.io/pause:3.10
+#registry.k8s.io/coredns/coredns:v1.12.0
+#registry.k8s.io/kube-proxy:v1.33.1
+#registry.k8s.io/kube-apiserver:v1.33.1
+#registry.k8s.io/kube-scheduler:v1.33.1
+#registry.k8s.io/kube-controller-manager:v1.33.1
+kicbase/stable:v0.0.47
