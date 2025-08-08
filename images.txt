@@ -23,4 +23,5 @@
 #kicbase/stable:v0.0.47
 
 # 20250808
-gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
+# gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
+quay.io/ansible/awx-operator:latest
