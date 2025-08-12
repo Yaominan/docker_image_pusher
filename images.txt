@@ -31,6 +31,6 @@
 # 20250808 - awx-images
 # gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
 #quay.io/ansible/awx-operator:latest
-quay.io/ansible/awx:24.6.1
-docker.io/redis:7
-
+#quay.io/ansible/awx:24.6.1
+#docker.io/redis:7
+quay.io/ansible/awx-ee:24.6.1
