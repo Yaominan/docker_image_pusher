@@ -33,4 +33,5 @@
 #quay.io/ansible/awx-operator:latest
 #quay.io/ansible/awx:24.6.1
 #docker.io/redis:7
-quay.io/ansible/awx-ee:24.6.1
+#quay.io/ansible/awx-ee:24.6.1
+zabbix/zabbix-proxy-mysql:6.0-alpine-latest
