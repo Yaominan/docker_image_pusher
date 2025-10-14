@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #centos:8
 #prometheus:latest
-grafana/grafana:latest
+#grafana/grafana:latest
 #nginx:latest
 #apache/airflow:latest
 #zabbix/zabbix-server-mysql:5.2-centos-latest
@@ -62,3 +62,7 @@ grafana/grafana:latest
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
+k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.0
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.1.1
+jimmidyson/configmap-reload:v0.5.0
+grafana/grafana:8.1.1
