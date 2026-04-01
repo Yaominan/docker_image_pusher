@@ -80,12 +80,21 @@
 
 # harbor
 #goharbor/prepare:dev
-goharbor/harbor-log:v2.12.4
-goharbor/registry-photon:v2.12.4
-goharbor/harbor-registryctl:v2.12.4
-goharbor/harbor-db:v2.12.4
-goharbor/harbor-core:v2.12.4
-goharbor/harbor-portal:v2.12.4
-goharbor/harbor-jobservice:v2.12.4
-goharbor/redis-photon:v2.12.4
-goharbor/nginx-photon:v2.12.4
+#goharbor/harbor-log:v2.12.4
+#goharbor/registry-photon:v2.12.4
+#goharbor/harbor-registryctl:v2.12.4
+#goharbor/harbor-db:v2.12.4
+#goharbor/harbor-core:v2.12.4
+#goharbor/harbor-portal:v2.12.4
+#goharbor/harbor-jobservice:v2.12.4
+#goharbor/redis-photon:v2.12.4
+#goharbor/nginx-photon:v2.12.4
+
+
+registry.k8s.io/kube-apiserver:v1.28.2
+registry.k8s.io/kube-controller-manager:v1.28.2
+registry.k8s.io/kube-scheduler:v1.28.2
+registry.k8s.io/kube-proxy:v1.28.2
+registry.k8s.io/pause:3.9
+registry.k8s.io/etcd:3.5.9-0
+registry.k8s.io/coredns/coredns:v1.10.1
