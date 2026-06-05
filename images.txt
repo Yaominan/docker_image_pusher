@@ -99,5 +99,8 @@
 #registry.k8s.io/coredns/coredns:v1.10.1
 
 # weoop
-centos:centos7.9.2009
-mysql:8.0
+#centos:centos7.9.2009
+#mysql:8.0
+
+# buildx
+moby/buildkit:buildx-stable-1
