@@ -103,4 +103,18 @@
 #mysql:8.0
 
 # buildx
-moby/buildkit:buildx-stable-1
+#moby/buildkit:buildx-stable-1
+
+
+# zabbix-server 7.0 & 6.0
+
+zabbix/zabbix-server-mysql:6.0-alpine-latest
+zabbix/zabbix-server-mysql:7.0-alpine-latest
+
+# zabbix-server 7.0 & 6.0
+zabbix/zabbix-proxy-mysql:7.0-alpine-latest
+zabbix/zabbix-proxy-mysql:6.0-alpine-latest
+
+# zabbix-server 7.0 & 6.0
+zabbix/zabbix-web-nginx-mysql:6.0-alpine-latest
+zabbix/zabbix-web-nginx-mysql:7.0-alpine-latest
