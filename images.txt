@@ -121,3 +121,4 @@
 
 zabbix/zabbix-server-mysql:ubuntu-7.0-latest
 zabbix/zabbix-web-nginx-mysql:ubuntu-7.0-latest
+zabbix/zabbix-proxy-mysql:ubuntu-7.0-latest
