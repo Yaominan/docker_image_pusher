@@ -119,6 +119,10 @@
 #zabbix/zabbix-web-nginx-mysql:6.0-alpine-latest
 #zabbix/zabbix-web-nginx-mysql:7.0-alpine-latest
 
+#zabbix/zabbix-server-mysql:ubuntu-7.0-latest
+#zabbix/zabbix-web-nginx-mysql:ubuntu-7.0-latest
+#zabbix/zabbix-proxy-mysql:ubuntu-7.0-latest
+
 #zabbix7.4
 zabbix/zabbix-server-mysql:7.4-centos-latest
 
