@@ -129,5 +129,6 @@
 #zabbix/zabbix-web-nginx-mysql:7.4-centos-latest
 
 # zabbix psql版本
-zabbix/zabbix-server-pgsql:7.0-centos-latest
-zabbix/zabbix-web-nginx-pgsql:7.0-ubuntu-latest
+#zabbix/zabbix-server-pgsql:7.0-centos-latest
+#zabbix/zabbix-web-nginx-pgsql:7.0-ubuntu-latest
+zabbix-web-nginx-pgsql:7.0-centos-latest
